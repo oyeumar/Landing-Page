@@ -1,6 +1,6 @@
-# Notes with Time App
+# This is the Landing page with React js 
 
-This is a simple React application that allows users to add notes along with the time they were created. The application is built using TypeScript and follows a component-based architecture.
+This is a simple React application that allows me to use components that I have build/ The application is built using TypeScript and follows a component-based architecture.
 
 ## Project Structure
 
@@ -46,8 +46,6 @@ This will launch the application in your default web browser.
 
 ## Features
 
-- Add notes with a timestamp.
-- View a list of all added notes.
 - Simple and intuitive user interface.
 
 ## Contributing
@@ -56,4 +54,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed by me.
